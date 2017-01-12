@@ -3,6 +3,10 @@
  * Copyright 2013-2017 Start Bootstrap
  * Licensed under  ()
  */
+.devicons {
+  color: #fed136;
+  font-size: 100px;
+}
 body {
   overflow-x: hidden;
   font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;

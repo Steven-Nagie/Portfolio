@@ -313,8 +313,13 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-link {
   display: block;
   position: relative;
+  height: 700px;
   max-width: 400px;
   margin: 0 auto;
+}
+#portfolio .portfolio-item .portfolio-link .portfolio-img {
+  height: calc(233.33333333px);
+  width: 400px;
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
   background: rgba(254, 209, 54, 0.9);
